@@ -5,7 +5,6 @@
  },
  {
     "repository": "sony-kernel-msm8660",
-    "target_path": "kernel/sony/msm8660",
-    "branch": "jellybean"
+    "target_path": "kernel/sony/msm8660"
   }
 ]
