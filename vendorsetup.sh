@@ -1,1 +1,1 @@
-add_lunch_combo cm_aoba-eng
+add_lunch_combo slim_aoba-userdebug
