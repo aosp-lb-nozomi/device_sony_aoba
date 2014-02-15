@@ -1,7 +1,7 @@
 # Boot animation
 TARGET_BOOTANIMATION_NAME := vertical-720x1280
 
-$(call inherit-product, device/sony/nozomi/full_aoba.mk)
+$(call inherit-product, device/sony/aoba/full_aoba.mk)
 
 # Inherit slim common GSM stuff.
 $(call inherit-product, vendor/slim/config/gsm.mk)
