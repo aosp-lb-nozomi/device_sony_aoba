@@ -36,7 +36,7 @@ $(call inherit-product, device/sony/fuji-common/prebuilt/resources-xdpi.mk)
 $(call inherit-product, device/sony/aoba/aoba.mk)
 
 # Set those variables here to overwrite the inherited values.
-PRODUCT_NAME := full_aoba
+PRODUCT_NAME := mk_aoba
 PRODUCT_DEVICE := aoba
 PRODUCT_BRAND := Sony
 PRODUCT_MANUFACTURER := Sony
